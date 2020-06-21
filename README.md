@@ -12,3 +12,7 @@ Data cleaning was done using pandas library by removing the null values and join
 ### 3. Data Modelling:
 For modelling the data various models were used for the prediction like:
 #### a. Linear Regression
+#### b. Ridge and Lasso Regression
+#### c. Decision Tree Regression
+#### d. Random Forest Regression
+#### e. XGboost
